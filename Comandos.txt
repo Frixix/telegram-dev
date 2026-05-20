@@ -1,0 +1,135 @@
+# =========================
+# TELEGRAM DEV AGENT
+# COMMANDS
+# =========================
+
+# -------------------------
+# SYSTEM
+# -------------------------
+
+/start
+/status
+/ping
+/help
+/version
+/restart
+/shutdown
+
+# -------------------------
+# DEPLOY
+# -------------------------
+
+/deploy
+/deploy-prod
+/deploy-dev
+/build
+/preview
+/open-site
+
+# -------------------------
+# GITHUB
+# -------------------------
+
+/commit
+/push
+/pull
+/branches
+/create-branch
+/revert
+/logs
+
+# -------------------------
+# FILES
+# -------------------------
+
+/create-file
+/delete-file
+/update-file
+/read-file
+/list-files
+/rename-file
+
+# -------------------------
+# WEB DEVELOPMENT
+# -------------------------
+
+/create-page
+/create-component
+/update-text
+/update-style
+/add-button
+/add-navbar
+/add-footer
+
+# -------------------------
+# DEBUGGING
+# -------------------------
+
+/fix-bug
+/debug
+/check-errors
+/review-code
+/scan-project
+
+# -------------------------
+# AI FEATURES
+# -------------------------
+
+/ask-ai
+/refactor
+/analyze-project
+/generate-ui
+/improve-code
+/explain-code
+
+# -------------------------
+# AGENTS
+# -------------------------
+
+/frontend-agent
+/backend-agent
+/debug-agent
+/deploy-agent
+/review-agent
+
+# -------------------------
+# DATABASE
+# -------------------------
+
+/connect-db
+/run-query
+/check-db
+/migrate-db
+/reset-db
+
+# -------------------------
+# MONITORING
+# -------------------------
+
+/server-status
+/cpu
+/memory
+/network
+/activity
+/history
+
+# -------------------------
+# SECURITY
+# -------------------------
+
+/auth
+/logout
+/permissions
+/backup
+/restore
+
+# -------------------------
+# FUTURE IDEAS
+# -------------------------
+
+/voice-command
+/generate-app
+/auto-fix
+/auto-deploy
+/create-api
+/generate-dashboard
